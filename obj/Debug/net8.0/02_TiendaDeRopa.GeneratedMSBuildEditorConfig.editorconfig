@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/vanhallen/Riwi/07_ASP/02_TiendaDeRopa
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/vanhallen/Riwi/07_ASP/02_TiendaDeRopa/Pages/Agregar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWdyZWdhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/vanhallen/Riwi/07_ASP/02_TiendaDeRopa/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
