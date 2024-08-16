@@ -1,0 +1,66 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.vspscc
+*.vssscc
+.vscode/
+
+# Archivos de paquete NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Archivos de publicación y despliegue
+*.publishsettings
+*.pubxml
+*.publishproj
+*.user
+
+# Configuración de Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+ipch/
+*.aps
+*.dbmdl
+*.sdf
+*.sqlite
+*.cache
+*.log
+*.tlog
+*.ide
+
+# Archivos de configuración de IIS
+.localhistory/
+.idea/
+_ReSharper.Caches/
+# User-specific files
+*.rsuser
+*.rsuser.json
+
+# Archivos de Docker
+**/Dockerfile
+**/docker-compose*.yml
+
+# Archivos generados por node.js
+node_modules/
+
+# Logs
+*.log
